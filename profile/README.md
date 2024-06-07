@@ -7,7 +7,7 @@
 - Примеряй свои или образы других пользователей на себя
 
 ## Установка для Android
-- Скачать файл TryOn.apk [в репозитории](https://github.com/WIP-VK-Spring-2024/Try-On-Wardrobe-App/releases/tag/release) и установить как приложение из сторонних источников.
+- Скачать файл [TryOn Wardrobe.apk](https://github.com/WIP-VK-Spring-2024/Try-On-Wardrobe-App/releases/download/release/TryOn.Wardrobe.apk) из репозитория и установить как приложение из сторонних источников.
 
 ## Установка для IOS
 - Требует IOS developer для публикаций в app store, для установки требуется локально собирать проект.
