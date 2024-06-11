@@ -20,3 +20,5 @@
 #### [ML Python backend](https://github.com/WIP-VK-Spring-2024/Virtual-Wardrobe-ML/releases/tag/release)
 #### [Go backend](https://github.com/WIP-VK-Spring-2024/try-on-wardrobe-backend/releases/tag/release)
 #### [Mobile app](https://github.com/WIP-VK-Spring-2024/Try-On-Wardrobe-App/releases/tag/release)
+
+#### [Презентация продукта](https://github.com/WIP-VK-Spring-2024/.github/blob/main/Презентация_TryOn%20Wardrobe%20WIP.pdf)
